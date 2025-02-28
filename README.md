@@ -9,7 +9,7 @@ This project applies various clustering techniques to segment customers based on
 
 
 - Source: Online Retail dataset [Github](https://github.com/CosmicDragon2556/CustomrsClustering/blob/main/Online%20Retail.xlsx)
-- [Link](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+- [Website Link](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
 ## Preprocessing Steps:
 - Removed duplicates
@@ -67,7 +67,7 @@ Measures between-cluster dispersion (higher is better)
 
 
 
-## Screenshots
+## Summary_Of_metrics
 
 ![Summary Of Metrices](https://github.com/CosmicDragon2556/CustomreClustering/blob/main/Summary_of_metrics.png)
 
